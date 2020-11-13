@@ -1,7 +1,8 @@
 # Aplikacje Internetowe
 
 ## Lab1 Blog uruchomiony na PaaS
-blog-nikodem.herokuapp.com 
+### blog-nikodem.herokuapp.com 
+
 Dzięki tym zadaniom stworzyłem mój pierwszy blog w Django !!!
 
   - Zainstalowałem pakiety i zapoznałem się z nimi : gunicorn,  django-heroku, whitenoise, Django
