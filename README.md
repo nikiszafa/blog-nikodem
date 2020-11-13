@@ -5,7 +5,7 @@
 
 Dzięki tym zadaniom stworzyłem mój pierwszy blog w Django !!!
 
-  - Zainstalowałem pakiety i zapoznałem się z nimi : gunicorn,  django-heroku, whitenoise, Django
+  - Zainstalowałem pakiety i zapoznałem się z nimi m.in. : gunicorn,  django-heroku, whitenoise, Django
   - Stworzyłem własny projekt Django.
   - Utworzyłem model Post z odpowiednimi polami i metodami.
   - Zapoznałem się z ORM Object-Relational Mapper i nauczyłem odczytywać informacje z bazy danych.
