@@ -11,3 +11,11 @@ Dzięki tym zadaniom stworzyłem mój pierwszy blog w Django !!!
   - Zapoznałem się z ORM Object-Relational Mapper i nauczyłem odczytywać informacje z bazy danych.
   - Wprowadziłem zmiany w pliku settings.py m.in. ustawiłem pliki statyczne.
   - Nauczyłem się deployować własną aplikację na heroku.
+  - Zabezpieczyłem edycję strony przed gośćmi.
+  
+  Strona główna
+  ![strona głóna](/skr/skr1.PNG)
+  Dodanie nowego postu
+  ![strona głóna](/skr/skr2.PNG)
+  Możliwość edycji
+  ![strona głóna](/skr/skr3.PNG)
